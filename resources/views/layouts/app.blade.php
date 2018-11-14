@@ -18,6 +18,11 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <style>
+        .card-new-task {
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
 <body>
     <div id="app">
